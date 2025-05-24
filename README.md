@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Mark Eugene Gerna</h1>
-🌱 I’m currently learning React.js and Remote Sensing<br>📫 How to reach me eugenegerna02@gmail.com <br>- GIS/Frontend Developer at CG3 Tech
+🌱 I’m currently learning React.js and Remote Sensing<br>📫 GIS/Frontend Developer at CG3 Tech
 
 
 ## 🌐 Socials:
