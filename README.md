@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Eugene Gerna</h1>
-# 💫 About Me:
+# 💫 About Me: <br/>
 🌱 I’m currently learning React.js/Next.js and Remote Sensing<br>📫 GIS/Software Developer at Apphorialabs
 
 
