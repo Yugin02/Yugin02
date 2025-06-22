@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mark Eugene Gerna</h1>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+There+👋;Im+Mark+Eugene+Gerna;" alt="Typing SVG"/>
+    </h1>
+</div>
 # 💫 About Me: <br/>
 🌱 I’m currently learning React.js/Next.js and Remote Sensing<br>📫 GIS/Software Developer at Apphorialabs
 
@@ -55,15 +59,27 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Yugin02&theme=dark&hide_border=false)..
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugin02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yugin02&theme=github_dark" width="100%" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yugin02&theme=github_dark" />
+</td>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yugin02&theme=github_dark" />
+</td>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yugin02&theme=github_dark&utcOffset=10" />
+</td>
+</tr>
+</table>
+</div>
+    
+<div align="center">
+<img  src="https://raw.githubusercontent.com/Yugin02/Yugin02/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Yugin02&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
