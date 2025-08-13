@@ -4,7 +4,7 @@
     </h1>
 </div>
 # 💫 About Me: <br/>
-🌱 I’m currently learning Next.js and Remote Sensing<br>📫 GIS/Software Developer at Apphorialabs
+📫 GIS/Software Developer at Apphorialabs
 
 
 ## 🌐 Socials:
