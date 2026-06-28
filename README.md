@@ -4,7 +4,7 @@
     </h1>
 </div>
 # 💫 About Me: <br/>
-📫 GIS/Software Developer at Apphorialabs
+📫 GIS/Software Developer
 
 
 ## 🌐 Socials:
